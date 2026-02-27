@@ -12,7 +12,7 @@ It helps track KPIs such as total sales, profit, and quantity sold while identif
 - Data Modeling  
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](My Dashboard.jpg)
+![Dashboard Screenshot](dashboard.jpg)
 
 🎥 **Dashboard Walkthrough:**  
 A screen recording of the dashboard is included in the repository for better understanding.
