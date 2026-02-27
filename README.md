@@ -30,6 +30,7 @@ A screen recording of the dashboard is included in the repository for better und
 
 ## 📁 Project Structure
 
+```
 PowerBI-Project--Mobile-Sales-Dashboard/
 │── Power BI Project.pbix
 │── Mobile Sales Raw Data.xlsx
@@ -37,6 +38,7 @@ PowerBI-Project--Mobile-Sales-Dashboard/
 │── Power BI Project - screen recording.mp4
 │── LICENSE
 │── README.md
+```
 
 
 ## 🚀 Outcome
